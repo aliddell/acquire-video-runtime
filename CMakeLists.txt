@@ -16,5 +16,6 @@ set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 
 add_subdirectory(src)
 add_subdirectory(tests)
+add_subdirectory(sandbox)
 
 include(CPack)
